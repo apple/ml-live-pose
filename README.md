@@ -10,13 +10,11 @@ This repository accompanies the research paper, [LivePose: Online 3D Reconstruct
 
 Upon using these data or source code, please cite:
 ```
-@misc{stier2023livepose,
+@inproceedings{stier2023livepose,
       title={LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses}, 
       author={Noah Stier and Baptiste Angles and Liang Yang and Yajie Yan and Alex Colburn and Ming Chuang},
+      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
       year={2023},
-      eprint={2304.00054},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
 }
 ```
 
